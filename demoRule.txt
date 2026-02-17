@@ -1,0 +1,2 @@
+this is demo file to validate the coding standards rule manually with this special character @
+demo*123

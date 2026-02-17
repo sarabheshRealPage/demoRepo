@@ -1,0 +1,1143 @@
+{
+  "implementation_uuid": "fa8708b0-20c1-4d91-a930-7883fed5363c",
+  "company_id": "6061de1c-e077-4ff7-99bd-bfd50d7fb134",
+  "property_id": "da2da457-51ff-4843-9184-b0eea47b6694",
+  "source_id": "SET",
+  "datahub_productcodes": [
+    "LRTC"
+  ],
+  "keys": [
+    {
+      "name": "lrtc_formData__propertyDate",
+      "value": "04/30/2024 00:00:00"
+    },
+    {
+      "name": "lrtc_formData__defaultTic",
+      "value": "1"
+    },
+    {
+      "name": "lrtc_formData__needsHotma",
+      "value": "True"
+    },
+    {
+      "name": "lrtc_formData__requireVerifications",
+      "value": "True"
+    }
+  ],
+  "tables": [
+    {
+      "name": "lrtc_passbookRates",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_passbookRates__id",
+              "value": "300"
+            },
+            {
+              "name": "lrtc_passbookRates__rate",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_passbookRates__startDate",
+              "value": "01/01/1990 00:00:00"
+            },
+            {
+              "name": "lrtc_passbookRates__appliesTo",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_passbookRates__id",
+              "value": "301"
+            },
+            {
+              "name": "lrtc_passbookRates__rate",
+              "value": "0.06"
+            },
+            {
+              "name": "lrtc_passbookRates__startDate",
+              "value": "02/01/2015 00:00:00"
+            },
+            {
+              "name": "lrtc_passbookRates__appliesTo",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_passbookRates__id",
+              "value": "302"
+            },
+            {
+              "name": "lrtc_passbookRates__rate",
+              "value": "0.4"
+            },
+            {
+              "name": "lrtc_passbookRates__startDate",
+              "value": "01/01/2024 00:00:00"
+            },
+            {
+              "name": "lrtc_passbookRates__appliesTo",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_passbookRates__id",
+              "value": "303"
+            },
+            {
+              "name": "lrtc_passbookRates__rate",
+              "value": "0.45"
+            },
+            {
+              "name": "lrtc_passbookRates__startDate",
+              "value": "01/01/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_passbookRates__appliesTo",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_passbookRates__id",
+              "value": "304"
+            },
+            {
+              "name": "lrtc_passbookRates__rate",
+              "value": "0.4"
+            },
+            {
+              "name": "lrtc_passbookRates__startDate",
+              "value": "01/01/2026 00:00:00"
+            },
+            {
+              "name": "lrtc_passbookRates__appliesTo",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_householdTypes",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_householdTypes__id",
+              "value": "66"
+            },
+            {
+              "name": "lrtc_householdTypes__name",
+              "value": "sanjay"
+            },
+            {
+              "name": "lrtc_householdTypes__group",
+              "value": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_unitTypes",
+      "values": []
+    },
+    {
+      "name": "lrtc_buildings",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_buildings__id",
+              "value": "165"
+            },
+            {
+              "name": "lrtc_buildings__buildingNumber",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_buildings__description",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__addressLine1",
+              "value": "6495 belt line rd"
+            },
+            {
+              "name": "lrtc_buildings__addressLine2",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__city",
+              "value": "Dallas"
+            },
+            {
+              "name": "lrtc_buildings__state",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_buildings__zip",
+              "value": "75254"
+            },
+            {
+              "name": "lrtc_buildings__county",
+              "value": "Dallas County"
+            },
+            {
+              "name": "lrtc_buildings__rentUp",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__bin",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__placedInServiceDate",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__maxRentMethod",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__maxRentDate",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__applicableFraction",
+              "value": ""
+            },
+            {
+              "name": "lrtc_buildings__taxCreditAllocation",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_incomeLimitSources",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_incomeLimitSources__id",
+              "value": "81"
+            },
+            {
+              "name": "lrtc_incomeLimitSources__incomeLimitType",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_incomeLimitSources__otherType",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimitSources__effectiveDate",
+              "value": "10/31/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_incomeLimitSources__county",
+              "value": "Dallas County"
+            },
+            {
+              "name": "lrtc_incomeLimitSources__expandPersons",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_incomeLimits",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_incomeLimits__id",
+              "value": "241"
+            },
+            {
+              "name": "lrtc_incomeLimits__incomeLimitSourceId",
+              "value": "81"
+            },
+            {
+              "name": "lrtc_incomeLimits__percentageLimit",
+              "value": "30"
+            },
+            {
+              "name": "lrtc_incomeLimits__onePerson",
+              "value": "1000"
+            },
+            {
+              "name": "lrtc_incomeLimits__twoPerson",
+              "value": "1001"
+            },
+            {
+              "name": "lrtc_incomeLimits__threePerson",
+              "value": "1002"
+            },
+            {
+              "name": "lrtc_incomeLimits__fourPerson",
+              "value": "1003"
+            },
+            {
+              "name": "lrtc_incomeLimits__fivePerson",
+              "value": "1004"
+            },
+            {
+              "name": "lrtc_incomeLimits__sixPerson",
+              "value": "1005"
+            },
+            {
+              "name": "lrtc_incomeLimits__sevenPerson",
+              "value": "1006"
+            },
+            {
+              "name": "lrtc_incomeLimits__eightPerson",
+              "value": "1007"
+            },
+            {
+              "name": "lrtc_incomeLimits__ninePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__tenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__elevenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__twelvePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__thirteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fourteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fifteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__sixteenPerson",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_incomeLimits__id",
+              "value": "242"
+            },
+            {
+              "name": "lrtc_incomeLimits__incomeLimitSourceId",
+              "value": "81"
+            },
+            {
+              "name": "lrtc_incomeLimits__percentageLimit",
+              "value": "50"
+            },
+            {
+              "name": "lrtc_incomeLimits__onePerson",
+              "value": "2000"
+            },
+            {
+              "name": "lrtc_incomeLimits__twoPerson",
+              "value": "2001"
+            },
+            {
+              "name": "lrtc_incomeLimits__threePerson",
+              "value": "2002"
+            },
+            {
+              "name": "lrtc_incomeLimits__fourPerson",
+              "value": "2003"
+            },
+            {
+              "name": "lrtc_incomeLimits__fivePerson",
+              "value": "2004"
+            },
+            {
+              "name": "lrtc_incomeLimits__sixPerson",
+              "value": "2005"
+            },
+            {
+              "name": "lrtc_incomeLimits__sevenPerson",
+              "value": "2006"
+            },
+            {
+              "name": "lrtc_incomeLimits__eightPerson",
+              "value": "2007"
+            },
+            {
+              "name": "lrtc_incomeLimits__ninePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__tenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__elevenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__twelvePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__thirteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fourteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fifteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__sixteenPerson",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_incomeLimits__id",
+              "value": "243"
+            },
+            {
+              "name": "lrtc_incomeLimits__incomeLimitSourceId",
+              "value": "81"
+            },
+            {
+              "name": "lrtc_incomeLimits__percentageLimit",
+              "value": "80"
+            },
+            {
+              "name": "lrtc_incomeLimits__onePerson",
+              "value": "3200"
+            },
+            {
+              "name": "lrtc_incomeLimits__twoPerson",
+              "value": "3201.6"
+            },
+            {
+              "name": "lrtc_incomeLimits__threePerson",
+              "value": "3203.2"
+            },
+            {
+              "name": "lrtc_incomeLimits__fourPerson",
+              "value": "3204.8"
+            },
+            {
+              "name": "lrtc_incomeLimits__fivePerson",
+              "value": "3206.4"
+            },
+            {
+              "name": "lrtc_incomeLimits__sixPerson",
+              "value": "3208"
+            },
+            {
+              "name": "lrtc_incomeLimits__sevenPerson",
+              "value": "3209.6"
+            },
+            {
+              "name": "lrtc_incomeLimits__eightPerson",
+              "value": "3211.2"
+            },
+            {
+              "name": "lrtc_incomeLimits__ninePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__tenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__elevenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__twelvePerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__thirteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fourteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__fifteenPerson",
+              "value": ""
+            },
+            {
+              "name": "lrtc_incomeLimits__sixteenPerson",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_floorPlans",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_floorPlans__id",
+              "value": "119"
+            },
+            {
+              "name": "lrtc_floorPlans__code",
+              "value": "1A"
+            },
+            {
+              "name": "lrtc_floorPlans__bedCount",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_floorPlans__unitCount",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_utilityAllowanceSources",
+      "values": []
+    },
+    {
+      "name": "lrtc_utilityAllowances",
+      "values": []
+    },
+    {
+      "name": "lrtc_programs",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_programs__id",
+              "value": "102"
+            },
+            {
+              "name": "lrtc_programs__programType",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_programs__otherProgramType",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__name",
+              "value": "Home sanjay"
+            },
+            {
+              "name": "lrtc_programs__stateIdentifier",
+              "value": "state"
+            },
+            {
+              "name": "lrtc_programs__incomeLimitSourceId",
+              "value": "81"
+            },
+            {
+              "name": "lrtc_programs__utilityAllowanceSourceIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__utilityAllowanceSourceId",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__lrtc10cElection",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__designationStartDate",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__minimumUnitsPercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__minimumSetAsidePercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__lrtc8bElection",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__buildingIds",
+              "value": "[165]"
+            },
+            {
+              "name": "lrtc_programs__applyBuildingTransferRule",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__applyUvr",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_programs__uvrScope",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__uvrViolation",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__uvrComparableUnit",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__uvrUnitLargerPercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__applyNaur",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__naurScope",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__naurViolation",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__applyHome",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_programs__homeRuleUnitVariance",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__lowHomeUnitCount",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_programs__highHomeUnitCount",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_programs__adjustedIncomeOrExpensesType",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_programs__levelOverIncome",
+              "value": "85"
+            },
+            {
+              "name": "lrtc_programs__applyStudent",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__studentRuleType",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isFilingJointTaxReturn",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isSingleParent",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isReceivingAfdc",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isEnrolledInJobTraining",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isOtherException",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isFosterCare",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isExtendedUse",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isFinancialAid",
+              "value": ""
+            },
+            {
+              "name": "lrtc_programs__isVulnerableYouth",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_setAsides",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_setAsides__id",
+              "value": "105"
+            },
+            {
+              "name": "lrtc_setAsides__programId",
+              "value": "102"
+            },
+            {
+              "name": "lrtc_setAsides__shortName",
+              "value": "home short"
+            },
+            {
+              "name": "lrtc_setAsides__name",
+              "value": "home set aside"
+            },
+            {
+              "name": "lrtc_setAsides__startDate",
+              "value": "10/31/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_setAsides__homeSetAsideType",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_setAsides__unitCount",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_setAsides__populationPercentage",
+              "value": "10"
+            },
+            {
+              "name": "lrtc_setAsides__populationRestriction",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_setAsides__buildingIds",
+              "value": "[165]"
+            },
+            {
+              "name": "lrtc_setAsides__unitTypeIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__floorPlanIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__unitsByFloorPlan",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__unitsByBedroom",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__isIncomeRelated",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_setAsides__overIncomePercentage",
+              "value": "140"
+            },
+            {
+              "name": "lrtc_setAsides__overMedianIncome",
+              "value": "10"
+            },
+            {
+              "name": "lrtc_setAsides__maxIncomeMedianPercentage",
+              "value": "10"
+            },
+            {
+              "name": "lrtc_setAsides__maxIncomeAnnualAmount",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__maxRentDetermination",
+              "value": "5"
+            },
+            {
+              "name": "lrtc_setAsides__maxRentPercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__maxRentMedianPercentage",
+              "value": "10"
+            },
+            {
+              "name": "lrtc_setAsides__hasHouseholdTypeRestriction",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_setAsides__householdTypeIds",
+              "value": "[66]"
+            },
+            {
+              "name": "lrtc_setAsides__hasHouseholdSizeRestriction",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_setAsides__minimumMembersCount",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_setAsides__maximumMembersCount",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_setAsides__hasAgeRestriction",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_setAsides__ageBasedRequirement",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_setAsides__householdRelationships",
+              "value": "[1]"
+            },
+            {
+              "name": "lrtc_setAsides__memberAge",
+              "value": "18"
+            },
+            {
+              "name": "lrtc_setAsides__memberAgeComparison",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_setAsides__hasAdditionalAgeRestriction",
+              "value": "False"
+            },
+            {
+              "name": "lrtc_setAsides__additionalAgeBasedRequirement",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__additionalHouseholdRelationships",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__additionalMemberAge",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__additionalMemberAgeComparison",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__hasMinimumIncomeRestriction",
+              "value": "True"
+            },
+            {
+              "name": "lrtc_setAsides__minimumIncomeMedianPercentage",
+              "value": "10"
+            },
+            {
+              "name": "lrtc_setAsides__minimumIncomeAmount",
+              "value": ""
+            },
+            {
+              "name": "lrtc_setAsides__minimumIncomeRentMultiplier",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_setAsideRules",
+      "values": []
+    },
+    {
+      "name": "lrtc_rentFloors",
+      "values": []
+    },
+    {
+      "name": "lrtc_minMaxRents",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_minMaxRents__id",
+              "value": "21"
+            },
+            {
+              "name": "lrtc_minMaxRents__setAsideId",
+              "value": "105"
+            },
+            {
+              "name": "lrtc_minMaxRents__rentType",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_minMaxRents__medianIncomePercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__startDate",
+              "value": "12/28/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_minMaxRents__bedCounts",
+              "value": "[2]"
+            },
+            {
+              "name": "lrtc_minMaxRents__floorPlanIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__maximumRent",
+              "value": "100"
+            },
+            {
+              "name": "lrtc_minMaxRents__minimumRent",
+              "value": "100"
+            },
+            {
+              "name": "lrtc_minMaxRents__fairMarketRent",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_minMaxRents__id",
+              "value": "22"
+            },
+            {
+              "name": "lrtc_minMaxRents__setAsideId",
+              "value": "105"
+            },
+            {
+              "name": "lrtc_minMaxRents__rentType",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_minMaxRents__medianIncomePercentage",
+              "value": "55"
+            },
+            {
+              "name": "lrtc_minMaxRents__startDate",
+              "value": "12/31/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_minMaxRents__bedCounts",
+              "value": "[2]"
+            },
+            {
+              "name": "lrtc_minMaxRents__floorPlanIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__maximumRent",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__minimumRent",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__fairMarketRent",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_minMaxRents__id",
+              "value": "23"
+            },
+            {
+              "name": "lrtc_minMaxRents__setAsideId",
+              "value": "105"
+            },
+            {
+              "name": "lrtc_minMaxRents__rentType",
+              "value": "3"
+            },
+            {
+              "name": "lrtc_minMaxRents__medianIncomePercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__startDate",
+              "value": "12/13/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_minMaxRents__bedCounts",
+              "value": "[2]"
+            },
+            {
+              "name": "lrtc_minMaxRents__floorPlanIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__maximumRent",
+              "value": "60"
+            },
+            {
+              "name": "lrtc_minMaxRents__minimumRent",
+              "value": "600"
+            },
+            {
+              "name": "lrtc_minMaxRents__fairMarketRent",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "name": "lrtc_minMaxRents__id",
+              "value": "24"
+            },
+            {
+              "name": "lrtc_minMaxRents__setAsideId",
+              "value": "105"
+            },
+            {
+              "name": "lrtc_minMaxRents__rentType",
+              "value": "2"
+            },
+            {
+              "name": "lrtc_minMaxRents__medianIncomePercentage",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__startDate",
+              "value": "10/28/2025 00:00:00"
+            },
+            {
+              "name": "lrtc_minMaxRents__bedCounts",
+              "value": "[1,2]"
+            },
+            {
+              "name": "lrtc_minMaxRents__floorPlanIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_minMaxRents__maximumRent",
+              "value": "540"
+            },
+            {
+              "name": "lrtc_minMaxRents__minimumRent",
+              "value": "660"
+            },
+            {
+              "name": "lrtc_minMaxRents__fairMarketRent",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_units",
+      "values": [
+        {
+          "columns": [
+            {
+              "name": "lrtc_units__id",
+              "value": "1025"
+            },
+            {
+              "name": "lrtc_units__buildingId",
+              "value": "165"
+            },
+            {
+              "name": "lrtc_units__unitNumber",
+              "value": "101"
+            },
+            {
+              "name": "lrtc_units__occupancyStatus",
+              "value": "1"
+            },
+            {
+              "name": "lrtc_units__exemptionReason",
+              "value": ""
+            },
+            {
+              "name": "lrtc_units__householdTypeIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_units__unitTypeIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_units__setAsideIds",
+              "value": ""
+            },
+            {
+              "name": "lrtc_units__isUvr",
+              "value": ""
+            },
+            {
+              "name": "lrtc_units__uvrDate",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lrtc_householdMembers",
+      "values": []
+    },
+    {
+      "name": "lrtc_certifications",
+      "values": []
+    },
+    {
+      "name": "lrtc_incomes",
+      "values": []
+    },
+    {
+      "name": "lrtc_currentAssets",
+      "values": []
+    },
+    {
+      "name": "lrtc_disposedAssets",
+      "values": []
+    }
+  ]
+}

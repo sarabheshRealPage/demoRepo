@@ -1,0 +1,32 @@
+<root>
+					<GU guid="16" uniqueid="0F606569-96D3-4C14-AF18-12C9E7E5A235">
+						<IncludedList>
+							<Row siteid="4341842" sitename="Adams Station" siteVersion="300" selected="1" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341843" sitename="Akers Lake" siteVersion="300" selected="1" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341844" sitename="Allen Heights" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341845" sitename="Anderson Creek" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341846" sitename="Armstrong Ridge" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341847" sitename="Carter Plaza" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341849" sitename="Cassidy South" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341850" sitename="Collins Plaza" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341851" sitename="Cooper Station" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4476658" sitename="Garden Court" siteVersion="300" selected="0" sourceBMName="NorthStar Conventional Business Model" excludedBit="False"/>
+							<Row siteid="4341859" sitename="Lindsey Springs" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341861" sitename="McClain Barracks" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341870" sitename="McCully Towers" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341871" sitename="Reilly Summit" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341872" sitename="Richards Loft" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341876" sitename="Robertson at Arnold" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341877" sitename="Scott Living" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="5000008" sitename="shell site" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341879" sitename="Shepard Station" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+							<Row siteid="4341880" sitename="Sullivan Lake" siteVersion="300" selected="0" sourceBMName="NA" excludedBit="False"/>
+						</IncludedList>
+						<UI>
+							<TransactionCategory action="UPDATE">
+								<Row ID="33"/>
+								<Row ID="34"/>
+							</TransactionCategory>
+						</UI>
+					</GU>
+				</root>
