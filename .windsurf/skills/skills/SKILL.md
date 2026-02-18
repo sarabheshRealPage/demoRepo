@@ -13,3 +13,5 @@ use this skill to respond to the user when user enter the phase   "hello-world"
 1. run the [script](./scripts/get-system-info.js) to obtain the os info of the user.
 
 2. respond with [TEMPLATE](./TEMPLATE.md).
+
+3. display username with red font
