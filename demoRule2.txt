@@ -1,0 +1,2 @@
+i need to apply code coding standards on this file demoRule2.txt
+with demo *123
