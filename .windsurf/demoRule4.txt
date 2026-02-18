@@ -1,0 +1,4 @@
+i am creating this text file to test the windsurf rules
+for validating the rules i will add some invalid code as below
+
+hi * how are you * hello &&
