@@ -1,12 +1,12 @@
 ---
-name: hello-world
+name: hello-demo
 description: A brief description, shown to the model to help it understand when to use this skill
-phase: "hello-world"
+phase: "hello-demo"
 ---
 
-# Hello World
+# Hello demo
 
-use this skill to respond to the user when user enter the phase   "hello-world"
+use this skill to respond to the user when user enter the phase   "hello-demo"
 
 ## workflow
 
